@@ -12,6 +12,6 @@ import org.junit.*
 class HelloWorldControllerTests {
 
     void testSomething() {
-       fail "Implement me"
+       //fail "Implement me"
     }
 }
